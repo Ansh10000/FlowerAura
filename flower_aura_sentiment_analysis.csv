@@ -1,0 +1,484 @@
+Customer Name,Customer Ratings,Customer Reviews,Cleaned_Review,Polarity,Subjectivity,Sentiment,Review_Length
+Ramesh Kumar pariyar,5,great experience with flowerauradelivery was on time and the products were really nicethank you for making the birthday special,great experience flowerauradelivery time product really nicethank making birthday special,0.4523809523809524,0.5071428571428571,Positive,10
+Anki M,5,fresh flowersliked it,fresh flowersliked,0.3,0.5,Positive,2
+suraj chaunal,5,the flowers were fresh and colorful tbh they were better than i expected thanks,flower fresh colorful tbh better expected thanks,0.24,0.39999999999999997,Positive,7
+Bakiyalakshmi,5,very fresh flowers delivered on time with beautiful packaging thank you floweraura for making our day special,fresh flower delivered time beautiful packaging thank floweraura making day special,0.5023809523809524,0.6904761904761904,Positive,11
+pulak.pal77,5,roses quality is very nice,rose quality nice,0.6,0.975,Positive,3
+Inaya,5,very beautifull on tome delivered,beautifull tome delivered,0.0,0.0,Negative,3
+Nallapandiyan D,4,thanks for the timely delivery,thanks timely delivery,0.2,0.2,Positive,3
+ushashree gangaputra,5,beautiful red roses reached before time thankyou flower aura you will never disappoint,beautiful red rose reached time thankyou flower aura never disappoint,0.48333333333333334,0.65,Positive,10
+Vasudha Meshram,5,i would hight recommended had a sweet surprise to arrange for my friends anniversary from airoli had to deliver it to sakinaka tried zepto swiggy hence googled and found out this amazing website i ended up downloading then app and then adding,would hight recommended sweet surprise arrange friend anniversary airoli deliver sakinaka tried zepto swiggy hence googled found amazing website ended downloading app adding,0.47500000000000003,0.775,Positive,23
+ananya,5,the bouquet is fresh and very pretty the reciever liked it very much thank you it was my first experience with flower aura and it turned out great and beautiful,bouquet fresh pretty reciever liked much thank first experience flower aura turned great beautiful,0.4642857142857143,0.6547619047619049,Positive,14
+Tabassum Farooqui,5,flowers are fresh and beautiful thank you flower aura for best delivery,flower fresh beautiful thank flower aura best delivery,0.7166666666666667,0.6,Positive,8
+Ajay Kumar,5,thank you for participation in my loving moment,thank participation loving moment,0.6,0.95,Positive,4
+Krishnakany,5,msstt bhai mazzaa aa gya bahut badiyan service on the time best price best quality thank you so much,msstt bhai mazzaa aa gya bahut badiyan service time best price best quality thank much,0.7333333333333334,0.26666666666666666,Positive,15
+mmsinha17,5,excellent flowers thank you team floweraura,excellent flower thank team floweraura,1.0,1.0,Positive,5
+Lucky,5,thanks for the delivery on time,thanks delivery time,0.2,0.2,Positive,3
+Debjit Mahapatra,5,i am totally happy with the delivered product and it is delivered on time,totally happy delivered product delivered time,0.8,1.0,Positive,6
+Gourav saraf,5,worth it,worth,0.3,0.1,Positive,1
+Abhishek,3,flowers are good fresh,flower good fresh,0.5,0.55,Positive,3
+GOPAL & KALYANI,5,excellent,excellent,1.0,1.0,Positive,1
+deepseavenom,5,excellent service from floweraura the quality of roses and the packaging were top notch well done,excellent service floweraura quality rose packaging top notch well done,0.7000000000000001,0.8166666666666668,Positive,10
+Vikas Kwatra,5,good product and timely delivery,good product timely delivery,0.7,0.6000000000000001,Positive,4
+Soumik Manna,5,delvery time is lateoverall every thing is good,delvery time lateoverall every thing good,0.7,0.6000000000000001,Positive,6
+Manisha Gawade,5,thank you so much for the wonderful service,thank much wonderful service,1.0,1.0,Positive,4
+Anush,5,the experience was nice and the delivery was too good,experience nice delivery good,0.6499999999999999,0.8,Positive,4
+Pankaj,5,thanks for the timely delivery,thanks timely delivery,0.2,0.2,Positive,3
+TRANSTECH PROJECTS PVT LTD,5,good,good,0.7,0.6000000000000001,Positive,1
+nishak1503,5,fresh flowers love it,fresh flower love,0.4,0.55,Positive,3
+arti.mishrakhu,5,awesome delivery,awesome delivery,1.0,1.0,Positive,2
+pavanisatweli,5,very happy my fiance loved the bouquet the flowers were fresh with the fresh droplets on it on time delivery may i say bfr time delivery very happy thanks for making it memorable,happy fiance loved bouquet flower fresh fresh droplet time delivery may say bfr time delivery happy thanks making memorable,0.5142857142857143,0.7142857142857143,Positive,19
+Nina tabitha simon,5,the flowers were fresh and beautiful,flower fresh beautiful,0.575,0.75,Positive,3
+Deepika Manohar,5,delivery on time and good bouquet,delivery time good bouquet,0.7,0.6000000000000001,Positive,4
+Govindrajan,5,received by the recipient well,received recipient well,0.0,0.0,Negative,3
+Puspita Mukherjee.,5,thank you flower aura for such a nice service delivery was on exactly on perfect time overall you are doing great job,thank flower aura nice service delivery exactly perfect time overall great job,0.6000000000000001,0.6875,Positive,12
+Pooja Singh,5,thank you so much fast delivery very good service,thank much fast delivery good service,0.44999999999999996,0.6000000000000001,Positive,6
+Ganesh,5,good,good,0.7,0.6000000000000001,Positive,1
+Iresh Kumar,5,very good service,good service,0.7,0.6000000000000001,Positive,2
+manishmrinal1970,5,excellent,excellent,1.0,1.0,Positive,1
+Lando Walaya Pule,5,amazing quality,amazing quality,0.6000000000000001,0.9,Positive,2
+heena,5,fabulous,fabulous,0.4,1.0,Positive,1
+Priyanka Rasane,5,ordered flowers for my mom and it was on time delivery of fresh rose banquets thanks definitely recommend flower aura,ordered flower mom time delivery fresh rose banquet thanks definitely recommend flower aura,0.27499999999999997,0.5375,Positive,13
+jagdish mukhtyar,4,recever was very happy to receive flowers,recever happy receive flower,0.8,1.0,Positive,4
+Utsav,5,awesome product and great packaging,awesome product great packaging,0.9,0.875,Positive,4
+Ankita Singh,5,delivered on time and fresh flowers wer there really impressed and quite satisfying,delivered time fresh flower wer really impressed quite satisfying,0.6,0.8333333333333334,Positive,9
+sadhana.law,5,cake is very delicious love the service,cake delicious love service,0.75,0.8,Positive,4
+poonam,5,thank you flower aura extremely happy for prompt delivery of scrumptious cake and beautiful bouquet keep doing good work,thank flower aura extremely happy prompt delivery scrumptious cake beautiful bouquet keep good work,0.7833333333333332,0.8666666666666667,Positive,14
+Arko Roy,5,delivery on time and the quality of flowers were great,delivery time quality flower great,0.8,0.75,Positive,5
+Garima Rajput,5,thank you floweraura,thank floweraura,0.0,0.0,Negative,2
+simran Sharma,5,beautiful roses,beautiful rose,0.725,0.975,Positive,2
+Vikram,5,thank you,thank,0.0,0.0,Negative,1
+Tara Chaurasiya,5,delivery was on time and bouquet was beautiful,delivery time bouquet beautiful,0.85,1.0,Positive,4
+Abhik Das,5,fastest delivery amongst all apps delivering flowers in kolkata the option of sending a personalised video message was an icing on the cake,fastest delivery amongst apps delivering flower kolkata option sending personalised video message icing cake,0.0,0.0,Negative,14
+Ayush Kumar shaw,5,there is not a single doubt on the quality of this particular bunch im looking forward to have it again,single doubt quality particular bunch im looking forward,0.047619047619047616,0.2738095238095238,Negative,8
+vijdew,5,the flowers were fresh prompt delivery yhsnk you,flower fresh prompt delivery yhsnk,0.3,0.5,Positive,5
+Shanu Giri,5,great experience with the great servicethankulooking forward to come in future again,great experience great servicethankulooking forward come future,0.5333333333333333,0.5416666666666666,Positive,7
+Rahul GR,5,good,good,0.7,0.6000000000000001,Positive,1
+Udit Jain,5,nice flowers,nice flower,0.6,1.0,Positive,2
+SAROJINI,5,very nice,nice,0.6,1.0,Positive,1
+sanjivsahdev,4,good,good,0.7,0.6000000000000001,Positive,1
+dharmesh.sapra786,5,superb,superb,1.0,1.0,Positive,1
+Shwetha,4,its beautiful but have made it even more beautiful,beautiful made even beautiful,0.85,1.0,Positive,4
+sangeetadeb786,4,its really good both the cake and the bouquet,really good cake bouquet,0.7,0.6000000000000001,Positive,4
+vsanjay709,5,just make a thought in mind floweraura make it happened thanku so much for such quick delivery,make thought mind floweraura make happened thanku much quick delivery,0.3333333333333333,0.5,Positive,10
+shubhammanchanda1995,5,amazing service delivered at the promised time,amazing service delivered promised time,0.6000000000000001,0.9,Positive,5
+akshay.jinde,5,good quality flowers and prompt delivery,good quality flower prompt delivery,0.7,0.6000000000000001,Positive,5
+kranth namala,5,super duper quick delivery amazed by their speed n service comfort they given on follow ups after an instruction go,super duper quick delivery amazed speed n service comfort given follow ups instruction go,0.3333333333333333,0.5833333333333333,Positive,14
+Kriti,5,the customer service is very supportive while booking the date window closed but later got amsg on whats app that they will still deliver on same day they did that thanks for all your wick support and service,customer service supportive booking date window closed later got amsg whats app still deliver day thanks wick support service,0.15000000000000002,0.325,Positive,19
+aimtofight33,5,good experience,good experience,0.7,0.6000000000000001,Positive,2
+divya2020honey,5,good,good,0.7,0.6000000000000001,Positive,1
+Nisith,5,very nice gesture,nice gesture,0.6,1.0,Positive,2
+Alex,5,thank you so much it was delivered on time the note was perfect and the flowers were fresh for soo long loveed it,thank much delivered time note perfect flower fresh soo long loveed,0.3625,0.525,Positive,11
+Arvind Sharma,5,very professional and timely delivery,professional timely delivery,0.1,0.1,Positive,3
+Saumya Chakrabarti,5,the quality of the cake was not up to the mark,quality cake mark,0.0,0.0,Negative,3
+MK Sapra,5,prompt service liked very much,prompt service liked much,0.4,0.5,Positive,4
+Suba Shree,5,excellent service by your team,excellent service team,1.0,1.0,Positive,3
+Ljudmila Novakovic,5,everything went smoothly roses were very beautiful kudos to the team thank you,everything went smoothly rose beautiful kudos team thank,0.725,0.975,Positive,8
+Srikeerthana,5,thankyou soo much for the timely delivery i had placed an order in the morning which was supposed to be delivered by pm my order was modified on call due to unavailibility of the bouquet delivery person delivered it just in time,thankyou soo much timely delivery placed order morning supposed delivered pm order modified call due unavailibility bouquet delivery person delivered time,0.037500000000000006,0.2875,Negative,21
+P R Vasu,5,good,good,0.7,0.6000000000000001,Positive,1
+Hareena,5,the flowers were very fresh and it was beautiful the message was also attached as a handwritten note delivery was promt overall excellent service,flower fresh beautiful message also attached handwritten note delivery promt overall excellent service,0.5375,0.625,Positive,13
+Surbhi,5,thank you,thank,0.0,0.0,Negative,1
+Adityarajsinh Jadeja,5,the flowers were fresh and amazing,flower fresh amazing,0.45000000000000007,0.7,Positive,3
+Sanghi Chowdary,5,thanks alot flowerauratheroses nd my note customised was heartouching thanq,thanks alot flowerauratheroses nd note customised heartouching thanq,0.2,0.2,Positive,8
+Gunjan Negi,4,thank you for delivering the flower despite of bad weather though flowers were not fresh but still appreciate your efforts,thank delivering flower despite bad weather though flower fresh still appreciate effort,-0.19999999999999993,0.5833333333333333,Negative,12
+Rajendra Kumar Gupta,5,highly satisfied whenever will be needed i will certainly call you need not to remind every now and then,highly satisfied whenever needed certainly call need remind every,0.35714285714285715,0.7857142857142857,Positive,9
+Dr Sangita Rajendra Patil,5,nice,nice,0.6,1.0,Positive,1
+sajid sheik,5,good,good,0.7,0.6000000000000001,Positive,1
+ivaneet7fzr,5,fresh flowers,fresh flower,0.3,0.5,Positive,2
+O P Gupta,5,very good service,good service,0.7,0.6000000000000001,Positive,2
+Faizan khan,5,nice,nice,0.6,1.0,Positive,1
+Sumit,5,thank you flower aura,thank flower aura,0.0,0.0,Negative,3
+Ramya,4,good productmore options for the delivery time to be available,good productmore option delivery time available,0.55,0.5,Positive,6
+Richa singla,5,this was my first experience with you and now i think i will always place order with you flowers were soooo fresh,first experience think always place order flower soooo fresh,0.275,0.41666666666666663,Positive,9
+pawan,5,vary beautiful flowers likes and appreciated by love one as well as fast and quick service recommendable thanks,vary beautiful flower like appreciated love one well fast quick service recommendable thanks,0.3805555555555556,0.5000000000000001,Positive,13
+haresh.zaveri57,5,value for money on time delivery,value money time delivery,0.0,0.0,Negative,4
+Hamza Mohammed,5,great job by flower aura,great job flower aura,0.8,0.75,Positive,4
+Nimisha Sinha,5,v good,v good,0.7,0.6000000000000001,Positive,2
+Harshal,5,flowers came fresh my mom loved it the delivery is also as promised it is a good way to make someone feels special by sending flowers thank you flower aura for helping people like me all the best for your team,flower came fresh mom loved delivery also promised good way make someone feel special sending flower thank flower aura helping people like best team,0.6114285714285714,0.5542857142857143,Positive,24
+vicky,5,superb,superb,1.0,1.0,Positive,1
+Silvi Jaganath,5,good,good,0.7,0.6000000000000001,Positive,1
+Gauri,5,thank you,thank,0.0,0.0,Negative,1
+sanjuphani2001,5,good fresh flowers and timey delivered,good fresh flower timey delivered,0.5,0.55,Positive,5
+sureshsreebhadra2010,5,thank u delivered on time keep up d good work team,thank u delivered time keep good work team,0.7,0.6000000000000001,Positive,8
+Sebastian KJ,5,good flower delivered thank u,good flower delivered thank u,0.7,0.6000000000000001,Positive,5
+DHIRAJ BILWAL,5,excelant happy to order again in festive season and tell others too,excelant happy order festive season tell others,0.8,1.0,Positive,7
+s k chopra,5,thanks its timely delivered,thanks timely delivered,0.2,0.2,Positive,3
+bhavnatiwari1712,5,nice and delivery on time,nice delivery time,0.6,1.0,Positive,3
+Joel Mogera,5,amazing service quick and perfect,amazing service quick perfect,0.6444444444444445,0.7999999999999999,Positive,4
+RAJESH KUMAR,5,very good,good,0.7,0.6000000000000001,Positive,1
+Suganya Arun,5,,,0.0,0.0,Negative,0
+komarpant,5,nice service,nice service,0.6,1.0,Positive,2
+aniket,5,very nice product and delivery,nice product delivery,0.6,1.0,Positive,3
+alkajoge6,5,thanks flower ora the cake was amazing,thanks flower os cake amazing,0.4,0.55,Positive,5
+shivangi sharma,5,i am totally satisfied with the flowers and add ons thank you so much for on time delivery,totally satisfied flower add ons thank much time delivery,0.35,0.6,Positive,9
+vivek saxena,5,services are good before time delivery,service good time delivery,0.7,0.6000000000000001,Positive,4
+Shubhangi Singh,5,good fresh flowers,good fresh flower,0.5,0.55,Positive,3
+Anjali,5,perfect,perfect,1.0,1.0,Positive,1
+Parth Dudhrejiya,5,good product,good product,0.7,0.6000000000000001,Positive,2
+Mahima Rachel Thomas,5,fresh flowers,fresh flower,0.3,0.5,Positive,2
+Simranjit Singh,5,good,good,0.7,0.6000000000000001,Positive,1
+Lalit Johar,5,good service,good service,0.7,0.6000000000000001,Positive,2
+chatterjeev94,5,yes delivered and on time as committed,yes delivered time committed,0.0,0.0,Negative,4
+Avinash Gupta,5,awesome product thanks aura team for making my day,awesome product thanks aura team making day,0.6,0.6,Positive,7
+Rema Chacko,5,timely deliverythank you,timely deliverythank,0.0,0.0,Negative,2
+Sidharths Kishor,5,really fresh flowers with good odour and packaging,really fresh flower good odour packaging,0.5,0.55,Positive,6
+sindhujavengala2,5,thank you for this amazing one thank you soo much for the in time delivery satisfied with this,thank amazing one thank soo much time delivery satisfied,0.43333333333333335,0.7000000000000001,Positive,9
+Thouseer,5,roses were really good so i added gypsy flowers to look even more beautiful,rose really good added gypsy flower look even beautiful,0.7166666666666667,0.85,Positive,9
+Rina Tagore,5,happy with quality and service,happy quality service,0.8,1.0,Positive,3
+vinay,5,great service,great service,0.8,0.75,Positive,2
+Renu Vijay,5,excellent,excellent,1.0,1.0,Positive,1
+Ashish Mehta,5,i am happy,happy,0.8,1.0,Positive,1
+bhatkirti20,5,thank you for quick and prompt service,thank quick prompt service,0.3333333333333333,0.5,Positive,4
+saumyadixit094,5,just awesome,awesome,1.0,1.0,Positive,1
+Amit kumar,4,very good product,good product,0.7,0.6000000000000001,Positive,2
+Vinay Gupta,4,thanks,thanks,0.2,0.2,Positive,1
+Ratan,5,good service,good service,0.7,0.6000000000000001,Positive,2
+Umesh Sharma,4,good,good,0.7,0.6000000000000001,Positive,1
+Gopal Goswami,5,nice,nice,0.6,1.0,Positive,1
+YOGESHWARI MESHRAM,5,great,great,0.8,0.75,Positive,1
+Chirag,5,good,good,0.7,0.6000000000000001,Positive,1
+kiranthapa518,5,i like it,like,0.0,0.0,Negative,1
+amiya dam,5,costly but promt service flower were very fresh nice handling timely delivery,costly promt service flower fresh nice handling timely delivery,0.44999999999999996,0.75,Positive,9
+Priya,5,flower bouquet was so great,flower bouquet great,0.8,0.75,Positive,3
+Rohan gusain,5,she like it thnyou so much finally issue resolved,like thnyou much finally issue resolved,0.0,1.0,Negative,6
+aditisri.p,5,the flowers were fresh n ll beautiful,flower fresh n beautiful,0.575,0.75,Positive,4
+Girish Bhandiwad,5,thank you for the prompt delivery,thank prompt delivery,0.0,0.0,Negative,3
+Niketh V,5,loved ur serviceit was fast and efficient,loved ur serviceit fast efficient,0.44999999999999996,0.7,Positive,5
+kiranthapa518,4,good service,good service,0.7,0.6000000000000001,Positive,2
+Saksham Bhardwaj,5,service are very good,service good,0.7,0.6000000000000001,Positive,2
+dr.j.m.lall,5,excellent service,excellent service,1.0,1.0,Positive,2
+subhendu,5,super fast service,super fast service,0.26666666666666666,0.6333333333333333,Positive,3
+Reeta goyal,5,thanku so much i m gratefull for this app,thanku much gratefull app,0.2,0.2,Positive,4
+Madhuri Singh,5,thank you for on time delivery really impressive and the cake was very yummy nd flowers are fresh and beautiful,thank time delivery really impressive cake yummy nd flower fresh beautiful,0.7166666666666667,0.8333333333333334,Positive,11
+Tehniyat,5,flowers were fresh and beautiful,flower fresh beautiful,0.575,0.75,Positive,3
+Javeriya qureshi,5,very fast delivery thank u so much with fresh roses,fast delivery thank u much fresh rose,0.3666666666666667,0.6833333333333332,Positive,7
+Ojas Kumar,5,wife loved it an we back n better than ever,wife loved back n better ever,0.39999999999999997,0.43333333333333335,Positive,6
+Sutapa Malakar,5,the delivery was on time the bouquet is very pretty and the cake was deliciousthanks for answering all the queries i had,delivery time bouquet pretty cake deliciousthanks answering query,0.25,1.0,Positive,8
+Abhishek,5,excellent,excellent,1.0,1.0,Positive,1
+Piyali,5,thank you,thank,0.0,0.0,Negative,1
+rajeesh kapila,5,,,0.0,0.0,Negative,0
+Sushil,5,awesome,awesome,1.0,1.0,Positive,1
+Sushma Pawar,5,the flowers were fresh timely delivery it was great,flower fresh timely delivery great,0.55,0.625,Positive,5
+Hiren shah,5,nice and beautiful arrangement,nice beautiful arrangement,0.725,1.0,Positive,3
+mathur_trilok,4,good product timely delivery,good product timely delivery,0.7,0.6000000000000001,Positive,4
+sushil kumar,5,very good,good,0.7,0.6000000000000001,Positive,1
+simonwilkins3,5,my first order with flower aura for my wifes birthday left me very impressed i loved their speed of delivery the variety of gifting options branding and quality of the products received highly recommend their services for gifting options,first order flower aura wife birthday left impressed loved speed delivery variety gifting option branding quality product received highly recommend service gifting option,0.422,0.5346666666666666,Positive,23
+Musfirah Maniar,4,satisfactory,satisfactory,0.0,0.0,Negative,1
+Stephen Louis,5,good,good,0.7,0.6000000000000001,Positive,1
+Choudhary5534,5,very nice,nice,0.6,1.0,Positive,1
+charu,5,thanks,thanks,0.2,0.2,Positive,1
+manglamporwal9,5,amazing packing and delivery time was much appreciated,amazing packing delivery time much appreciated,0.4,0.5,Positive,6
+Mrs N Mr Rajgopal,5,very promptly delivered thank you,promptly delivered thank,0.0,0.0,Negative,3
+nidhi bhalla,5,excellent service thanks a lot,excellent service thanks lot,0.6,0.6,Positive,4
+Ashutosh Giri,5,everything from delivery to products were great,everything delivery product great,0.8,0.75,Positive,4
+Shweta,5,ordered for the st time loved their fast delivery amazing flowers very convenient yo place online orders loved it,ordered st time loved fast delivery amazing flower convenient yo place online order loved,0.55,0.7749999999999999,Positive,14
+SHETTY,5,excellent,excellent,1.0,1.0,Positive,1
+yogesh,5,excellent service,excellent service,1.0,1.0,Positive,2
+Mili Sarkhel,5,happy with the products of floweraura the cake was very beautiful and tasty the roses are fresh and was presented beautifullythe budhha fountain is also very bright and beautiful last but not the least i should mention that i am satisfied,happy product floweraura cake beautiful tasty rose fresh presented beautifullythe budhha fountain also bright beautiful last least mention satisfied,0.47777777777777775,0.7462962962962963,Positive,19
+bhushan dewangan,5,on experience,experience,0.0,0.0,Negative,1
+nidhi,5,awesome,awesome,1.0,1.0,Positive,1
+Bhuvana Panchanath,5,very prompt delivery less than mins since i ordered tks,prompt delivery less min since ordered tks,-0.16666666666666666,0.06666666666666667,Negative,7
+Arnav Jain,5,very fast and hassle free delivery roses were fresh and beautiful,fast hassle free delivery rose fresh beautiful,0.47000000000000003,0.7699999999999999,Positive,7
+Sanjay,5,good,good,0.7,0.6000000000000001,Positive,1
+Human Resource,5,great,great,0.8,0.75,Positive,1
+Feyaz Md,5,the flowers are very fresh the cake was yummilicious over all wonderful service by floweraura team appreciate your service kudos to the team,flower fresh cake yummilicious wonderful service floweraura team appreciate service kudos team,0.65,0.75,Positive,12
+Muhammad Iqbal,5,thanks team,thanks team,0.2,0.2,Positive,2
+mhemalayakumari,5,very happy with the order you people made my day happy with ur lovely cake and flowers thanks floweraura for same day deliveries it is very helpful for people like me thank you so much,happy order people made day happy ur lovely cake flower thanks floweraura day delivery helpful people like thank much,0.5000000000000001,0.6300000000000001,Positive,19
+Manohar K Kulkarni,5,quick and prompt service,quick prompt service,0.3333333333333333,0.5,Positive,3
+om prakash vaishnav,4,good,good,0.7,0.6000000000000001,Positive,1
+Manisha Lal,5,quick delivery awesome service as always,quick delivery awesome service always,0.6666666666666666,0.75,Positive,5
+Manish Kumar,5,floweraura made a sainiks day from a distant appreciated,floweraura made sainiks day distant appreciated,0.05,0.22499999999999998,Negative,6
+Vahaha,5,roses were fresh and really great,rose fresh really great,0.5666666666666667,0.7333333333333334,Positive,4
+ash4ok,5,flowers are good n fresh,flower good n fresh,0.5,0.55,Positive,4
+syedikram7809,5,good,good,0.7,0.6000000000000001,Positive,1
+Riyaz Kazi,5,fantastic,fantastic,0.4,0.9,Positive,1
+bratatidg,5,very prompt delivery,prompt delivery,0.0,0.0,Negative,2
+mayak310m,5,beautiful flowers,beautiful flower,0.85,1.0,Positive,2
+siva,5,thanks,thanks,0.2,0.2,Positive,1
+srikanth kulkarni,5,good service,good service,0.7,0.6000000000000001,Positive,2
+Mamatha Kusuma,5,im very much happy fast delivery good quality love it,im much happy fast delivery good quality love,0.55,0.7000000000000001,Positive,8
+Parul,5,the flowers were fresh and pretty,flower fresh pretty,0.275,0.75,Positive,3
+Jyoti Galgali,5,flowers look fresh and delivery time perfect,flower look fresh delivery time perfect,0.65,0.75,Positive,6
+Shashikant,5,thanks for timely delivery,thanks timely delivery,0.2,0.2,Positive,3
+miss.vishnudhakad,5,thank you so much for flower aura,thank much flower aura,0.2,0.2,Positive,4
+Ashish Tiwari,5,it reached on time loved it,reached time loved,0.7,0.8,Positive,3
+Rahul Gaira,5,so butifull,butifull,0.0,0.0,Negative,1
+s.kumar_0021,5,very good and satisfying,good satisfying,0.6,0.8,Positive,2
+pooja,5,nice,nice,0.6,1.0,Positive,1
+gargi tyagi,4,awesome flowers,awesome flower,1.0,1.0,Positive,2
+Neha sharma,5,thanku so muchreally really appreciate for your fast service,thanku muchreally really appreciate fast service,0.2,0.4,Positive,6
+prem shankar,5,nice products quick delivery,nice product quick delivery,0.4666666666666667,0.75,Positive,4
+sahrishjamal24,5,all three things i order was so good cake was yummy flowers were fresh and picture lamp was lovely,three thing order good cake yummy flower fresh picture lamp lovely,0.5,0.6166666666666667,Positive,11
+Mamta,5,beautiful bouquet and it was delivered in time,beautiful bouquet delivered time,0.85,1.0,Positive,4
+PIYUSH PATIL,5,nice fresh flowers with great packaging,nice fresh flower great packaging,0.5666666666666667,0.75,Positive,5
+Anupama,3,really happy with the delivery,really happy delivery,0.8,1.0,Positive,3
+sudipto das,5,it was fresh beautiful and most importantly ontime great work guys,fresh beautiful importantly ontime great work guy,0.5874999999999999,0.8125,Positive,7
+Sagar N. Deka,5,thank you so much,thank much,0.2,0.2,Positive,2
+Nishanth.A. Ganig,5,rose quality was fresh,rose quality fresh,0.44999999999999996,0.725,Positive,3
+Vilasini Nair,5,very good service,good service,0.7,0.6000000000000001,Positive,2
+vaishalidekate30,5,very nice flowers and on time delivered thanks for sharing happiness,nice flower time delivered thanks sharing happiness,0.5,0.4666666666666666,Positive,7
+Srinjika Dey,5,satisfied with the on time delivery and reasonable value,satisfied time delivery reasonable value,0.35,0.8,Positive,5
+Mahak Todi,5,fresh roses delivered thank you,fresh rose delivered thank,0.44999999999999996,0.725,Positive,4
+maninder kaur,5,amazing and fast serviceso glad to choose you guys,amazing fast serviceso glad choose guy,0.43333333333333335,0.8333333333333334,Positive,6
+swetasharma400,5,nicely delivered on time,nicely delivered time,0.6,1.0,Positive,3
+JAYANTHI DAYANAND,5,delivered on time extremely satisfied thank you,delivered time extremely satisfied thank,0.5,1.0,Positive,5
+parul sharma,5,beautiful bouquet,beautiful bouquet,0.85,1.0,Positive,2
+kandesamatha,5,thankyou so much,thankyou much,0.2,0.2,Positive,2
+Preethi,5,nice flower bouquet,nice flower bouquet,0.6,1.0,Positive,3
+SPSingh,5,good flowers,good flower,0.7,0.6000000000000001,Positive,2
+Shubham Manchanda,4,fresh flowers amazing aroma,fresh flower amazing aroma,0.45000000000000007,0.7,Positive,4
+Aditya,5,flowers were really fresh and the bouquet was well made happy with the purchase,flower really fresh bouquet well made happy purchase,0.55,0.75,Positive,8
+pvashistha,5,lovely flowers thanks for prompt service and fresh flowers regards preeti,lovely flower thanks prompt service fresh flower regard preeti,0.3333333333333333,0.48333333333333334,Positive,9
+Hottest Hunk,5,same day delivery and flowers are fresh,day delivery flower fresh,0.3,0.5,Positive,4
+vermaanikaat1997,5,good service,good service,0.7,0.6000000000000001,Positive,2
+Dimple sinha,5,good experience,good experience,0.7,0.6000000000000001,Positive,2
+Shubham Deshmukh,5,good,good,0.7,0.6000000000000001,Positive,1
+sush D,5,thank you,thank,0.0,0.0,Negative,1
+shamaahmed519,4,nice flowers,nice flower,0.6,1.0,Positive,2
+kiran shende,5,thankyou so much i loved the flowers,thankyou much loved flower,0.7,0.8,Positive,4
+sam.mane17,5,thank you very much for on time delivery fresh flowersthank youwill definitely use again,thank much time delivery fresh flowersthank youwill definitely use,0.16666666666666666,0.39999999999999997,Positive,9
+Saurav Roy,5,beautiful flowers i must say and brilliant and smooth experience,beautiful flower must say brilliant smooth experience,0.7166666666666667,0.8333333333333334,Positive,7
+sharan lobo,5,best service,best service,1.0,0.3,Positive,2
+Anuj Nigam,5,good experience,good experience,0.7,0.6000000000000001,Positive,2
+sumankumar.11,5,thanks,thanks,0.2,0.2,Positive,1
+Himanshu Purohit,5,good service,good service,0.7,0.6000000000000001,Positive,2
+Anusuya Dutta,5,excellent,excellent,1.0,1.0,Positive,1
+Kowsalya Savarirajan,5,prompt delivery,prompt delivery,0.0,0.0,Negative,2
+Ch0656179,5,thx,thx,0.0,0.0,Negative,1
+romishkhan7,5,absolutely great service rider was very good and polite flowers were fresh overall great experience thank youu,absolutely great service rider good polite flower fresh overall great experience thank youu,0.52,0.52,Positive,13
+Rahil Shah,5,it was lovely and my wife loved the product i ordered from canada and it was delivered on time,lovely wife loved product ordered canada delivered time,0.6,0.775,Positive,8
+Sagarika,5,thank u so much,thank u much,0.2,0.2,Positive,3
+Sagarika,5,thank you so much,thank much,0.2,0.2,Positive,2
+Kewat Nirmala,5,beautiful,beautiful,0.85,1.0,Positive,1
+Anurag,5,thank you,thank,0.0,0.0,Negative,1
+MD FAIZ RABBANI,5,awesome,awesome,1.0,1.0,Positive,1
+akashroy.ar34,5,thank you,thank,0.0,0.0,Negative,1
+Reetika Tiwari,5,loved them thank you,loved thank,0.7,0.8,Positive,2
+ankeshyadav843104,5,gud,gud,0.0,0.0,Negative,1
+Imran Dal,5,thanks for support flora aura team,thanks support flora aura team,0.2,0.2,Positive,5
+Parth,5,great job delivered on time,great job delivered time,0.8,0.75,Positive,4
+Dev Desai,5,received fresh flowers with committed delivery time,received fresh flower committed delivery time,0.3,0.5,Positive,6
+Prem Devi,5,flowers are very fresh and superfast delivery thank you so much,flower fresh superfast delivery thank much,0.25,0.35,Positive,6
+dhairya,5,awesome,awesome,1.0,1.0,Positive,1
+rumi nath,5,thank you so much,thank much,0.2,0.2,Positive,2
+Rahul,5,nice experience,nice experience,0.6,1.0,Positive,2
+ruchi,4,good experience,good experience,0.7,0.6000000000000001,Positive,2
+Shailendra,5,satisfied,satisfied,0.5,1.0,Positive,1
+Shruti,5,the flowers arrived well on time and they are very fresh i am very pleased with the service highly recommend,flower arrived well time fresh pleased service highly recommend,0.32,0.68,Positive,9
+Mehak Wadehra,4,fresh flowers beautiful bouquet,fresh flower beautiful bouquet,0.575,0.75,Positive,4
+Visalachi Paper Mart,4,timely service and response happy to order to you,timely service response happy order,0.8,1.0,Positive,5
+Siddhant Kothari,5,nice,nice,0.6,1.0,Positive,1
+Ruchi,5,hood experience,hood experience,0.0,0.0,Negative,2
+Aaisha Fatima,5,nice,nice,0.6,1.0,Positive,1
+priyanka khanna,5,awesome,awesome,1.0,1.0,Positive,1
+Rose,5,good one,good one,0.7,0.6000000000000001,Positive,2
+aartisanjivshah,5,flowers were really nice,flower really nice,0.6,1.0,Positive,3
+Tipu Sultan,5,best,best,1.0,0.3,Positive,1
+Prudhvi Dhulipudi,5,prompt delivery good quality roses meeting her first time and it made her day,prompt delivery good quality rose meeting first time made day,0.5166666666666666,0.6277777777777778,Positive,10
+Nayanjyoti Bordoloi,5,it was a really nice experience the delivery boy has kept the secret that i have told him overall experience was amazing,really nice experience delivery boy kept secret told overall experience amazing,0.2,0.65,Positive,11
+Chetan R Kottidi,5,very good and prompt service highly recommended,good prompt service highly recommended,0.43,0.5700000000000001,Positive,5
+Keyur Shah,5,awesome n express delivery,awesome n express delivery,1.0,1.0,Positive,4
+Digvijay Dhupar,5,in time delivery and very fresh roses,time delivery fresh rose,0.44999999999999996,0.725,Positive,4
+bharath,5,very genuine i really appreciate,genuine really appreciate,0.30000000000000004,0.35,Positive,3
+CA Santosh Vishwakarma,4,good,good,0.7,0.6000000000000001,Positive,1
+Arif Zanjirkar,5,good service,good service,0.7,0.6000000000000001,Positive,2
+SHUBHANGI AGGARWAL,5,very good,good,0.7,0.6000000000000001,Positive,1
+Sapan,5,timely reached,timely reached,0.0,0.0,Negative,2
+Ajit,5,very nice and timely service thanks,nice timely service thanks,0.4,0.6,Positive,4
+Adarsha S,3,good,good,0.7,0.6000000000000001,Positive,1
+Davinder Sidhu,5,great on time delivery,great time delivery,0.8,0.75,Positive,3
+Ashish Tripathi,5,great,great,0.8,0.75,Positive,1
+Tharun kumar,5,very good service,good service,0.7,0.6000000000000001,Positive,2
+Shahana khan,5,excellent,excellent,1.0,1.0,Positive,1
+Mir Wahid Ali,5,good service,good service,0.7,0.6000000000000001,Positive,2
+Premraj c,5,flowers are ultra fresh and packed neatly and delivered on time,flower ultra fresh packed neatly delivered time,0.3,0.5,Positive,7
+Chandra,5,excellent servicei am satisfied very much,excellent servicei satisfied much,0.5666666666666667,0.7333333333333334,Positive,4
+pooja,5,very fresh loved the presentation,fresh loved presentation,0.5,0.65,Positive,3
+gogoipranay22,5,jzzt awesome go for it,jzzt awesome go,1.0,1.0,Positive,3
+hitesh saini,5,its a ll good,good,0.7,0.6000000000000001,Positive,1
+seshagiri,5,nice,nice,0.6,1.0,Positive,1
+Betsy,5,it was so fresh,fresh,0.3,0.5,Positive,1
+kumar,5,it was good,good,0.7,0.6000000000000001,Positive,1
+priyankarajmehrotra40,5,good service but improve ur variety in gift sectionneed sofciticated gift in mens section thanks,good service improve ur variety gift sectionneed sofciticated gift men section thanks,0.44999999999999996,0.4,Positive,12
+Dhananjaya Harish,5,prompt and timely delivered thank you,prompt timely delivered thank,0.0,0.0,Negative,4
+Sunil,5,it was my first online purchase i have a nice experience,first online purchase nice experience,0.425,0.6666666666666666,Positive,5
+sunilkumararora63,5,excellent,excellent,1.0,1.0,Positive,1
+sherlyabraham.aa,5,excellent,excellent,1.0,1.0,Positive,1
+arindom paul,5,happy,happy,0.8,1.0,Positive,1
+Harshil Trivedi,5,great,great,0.8,0.75,Positive,1
+Allenchoudhary,5,good,good,0.7,0.6000000000000001,Positive,1
+Sahil Gupta,5,very nice service,nice service,0.6,1.0,Positive,2
+Gourav Dutta,5,excellent experience,excellent experience,1.0,1.0,Positive,2
+Faiz Khan,5,its good and flowers are also fresh,good flower also fresh,0.5,0.55,Positive,4
+Sudhir kumar,5,superb product very well delivered,superb product well delivered,1.0,1.0,Positive,4
+Neelam kumari,5,very well and lovely bouqute,well lovely bouqute,0.5,0.75,Positive,3
+Jyoti rajput,5,wonderful,wonderful,1.0,1.0,Positive,1
+Archana,5,great,great,0.8,0.75,Positive,1
+sukhbirkaurjassal,5,excellent,excellent,1.0,1.0,Positive,1
+Anjali Singh,5,thank you so much team,thank much team,0.2,0.2,Positive,3
+SAMIR TIWARI,5,good delivery,good delivery,0.7,0.6000000000000001,Positive,2
+Anuj Wadhwani,5,perfect,perfect,1.0,1.0,Positive,1
+ANMOL GUPTA,5,yes i really liked the gift but i want to give a suggestion please write the message appropriately means presentation should be more beautiful,yes really liked gift want give suggestion please write message appropriately mean presentation beautiful,0.37916666666666665,0.8291666666666666,Positive,14
+Sarthak Shukla,5,they deliver the flowers on time and in a nice condition,deliver flower time nice condition,0.6,1.0,Positive,5
+Thendral,5,nice it will delivered at time thanku,nice delivered time thanku,0.6,1.0,Positive,4
+Pravin Natarajan,5,flowers were fresh and got it on time,flower fresh got time,0.3,0.5,Positive,4
+Abhijit,5,delivered on time professionally flower is also fresh,delivered time professionally flower also fresh,0.2,0.3,Positive,6
+Deepa,5,good and excellent on time service,good excellent time service,0.85,0.8,Positive,4
+kumudsapru,5,fresh flowers though but late due to christmas rush,fresh flower though late due christmas rush,-0.041666666666666664,0.4916666666666667,Negative,7
+Aalok Pardeshi,5,thank you it was perfect within time,thank perfect within time,1.0,1.0,Positive,4
+Peter Jacobs,4,it was not what was shown in the app,shown app,0.0,0.0,Negative,2
+VIJENDRA NATH,5,very good service,good service,0.7,0.6000000000000001,Positive,2
+ChaitanyaVeer,5,first time uses flower auragreat experiencevery happy with the service,first time us flower auragreat experiencevery happy service,0.525,0.6666666666666666,Positive,8
+MOHANAPRIYA V,5,quick delivery with a fresh fill flowers,quick delivery fresh fill flower,0.31666666666666665,0.5,Positive,5
+MARIANNE PEREIRA,5,eexcellent service will mreccommend your service to friends,eexcellent service mreccommend service friend,0.0,0.0,Negative,5
+Rashmi Kamat,5,delivered right in time and in reasonable amount thank you flower aura,delivered right time reasonable amount thank flower aura,0.24285714285714285,0.5678571428571428,Positive,8
+Raj Kumar Thukral,5,good service,good service,0.7,0.6000000000000001,Positive,2
+abhishek mishra,5,good job,good job,0.7,0.6000000000000001,Positive,2
+SABU KURIAN,4,prompt delivery,prompt delivery,0.0,0.0,Negative,2
+Raj rani Samnotra,5,nice experience,nice experience,0.6,1.0,Positive,2
+Varuna Khanna,5,good experience,good experience,0.7,0.6000000000000001,Positive,2
+Rashna Dinshaw,5,keep up your freshness,keep freshness,0.0,0.0,Negative,2
+Ruchin,5,i all worked well gift reached on time and good condition you make my moment thank you,worked well gift reached time good condition make moment thank,0.7,0.6000000000000001,Positive,10
+ASHA AND MOHANDAS,5,service was promptthanks,service promptthanks,0.0,0.0,Negative,2
+V.BALAJI RAO,5,freshly cut neatly packed red roses in a beautifully made bouquet,freshly cut neatly packed red rose beautifully made bouquet,0.4375,0.6125,Positive,9
+Sahithi,5,thank you for your order i loved it,thank order loved,0.7,0.8,Positive,3
+GSUNDARAM,5,good service,good service,0.7,0.6000000000000001,Positive,2
+N. Prabhu,5,great,great,0.8,0.75,Positive,1
+om umang,5,great,great,0.8,0.75,Positive,1
+prateek,5,good,good,0.7,0.6000000000000001,Positive,1
+Satagopan V Srinivasan,5,excellent service,excellent service,1.0,1.0,Positive,2
+Sindhu,5,on time service,time service,0.0,0.0,Negative,2
+Pradeep,5,the recepient is pleased to receive the flowers,recepient pleased receive flower,0.5,1.0,Positive,4
+ATUL JAYANT HARDAS,5,excellent service nice flower bouquet was delivered on time,excellent service nice flower bouquet delivered time,0.8,1.0,Positive,7
+Ankur Sharma,5,delivery on time and good quality,delivery time good quality,0.7,0.6000000000000001,Positive,4
+Aswin Deepak,5,i had ordered for birthday timely delivery made my day fresh roses thank you,ordered birthday timely delivery made day fresh rose thank,0.44999999999999996,0.725,Positive,9
+Chandrashekar Moolya,5,now please let me know how to redeem my amount in the valley against my future order if there is any promo code pl forward,please let know redeem amount valley future order promo code pl forward,0.0,0.125,Negative,12
+Gaurav,5,good quality flowers delivered well within the time mentioned,good quality flower delivered well within time mentioned,0.7,0.6000000000000001,Positive,8
+SruthiAnandhu,5,on time delivery best experience,time delivery best experience,1.0,0.3,Positive,4
+s9879435314,5,time delivered,time delivered,0.0,0.0,Negative,2
+Gauhar,5,nice,nice,0.6,1.0,Positive,1
+Gauhar,5,happy,happy,0.8,1.0,Positive,1
+Viraj Gorde,5,roses were properly chosen and delivery was made on time thank you for your professional service,rose properly chosen delivery made time thank professional service,0.2333333333333333,0.38333333333333336,Positive,9
+kunjan Sharma,5,delivered on time as promised ease of using app had variety of options to choose from same day delivery option was cherry on top,delivered time promised ease using app variety option choose day delivery option cherry top,0.5,0.5,Positive,14
+Vibha Robert,5,great customer servicegood stuff,great customer servicegood stuff,0.8,0.75,Positive,4
+Riya Shukla,5,its very beautiful,beautiful,0.85,1.0,Positive,1
+asassociateshc,4,good value for money,good value money,0.7,0.6000000000000001,Positive,3
+Champak,2,nil,nil,0.0,0.0,Negative,1
+vijayakarunathota718,5,quality awesome,quality awesome,1.0,1.0,Positive,2
+Avinashkumar,5,timeless delivered,timeless delivered,0.0,0.0,Negative,2
+abrolsuresh24,5,very humble good services,humble good service,0.24999999999999997,0.5,Positive,3
+jyoti,5,thankyou for such a excellent app,thankyou excellent app,1.0,1.0,Positive,3
+Amera,5,great service and on time delivery,great service time delivery,0.8,0.75,Positive,4
+Shailendra Kumar Gupta,5,nice service,nice service,0.6,1.0,Positive,2
+Lakshmanan,5,excellento,excellento,0.0,0.0,Negative,1
+Nilu,5,thank you,thank,0.0,0.0,Negative,1
+Remu,5,excellent service,excellent service,1.0,1.0,Positive,2
+Mehtab Ahmad,5,good service,good service,0.7,0.6000000000000001,Positive,2
+sravani,5,nice,nice,0.6,1.0,Positive,1
+Arunima,5,my friend liked it a lot thanks a lot,friend liked lot thanks lot,0.4,0.5,Positive,5
+Sandeep,5,great product and timely service,great product timely service,0.8,0.75,Positive,4
+Pranab Kr Datta,5,though i have not heard from the recipient yet i am of the opinion that everything went as per my expectation,though heard recipient yet opinion everything went per expectation,0.0,0.0,Negative,9
+Guhan,4,wonderful bouqet and time delivery,wonderful bouqet time delivery,1.0,1.0,Positive,4
+isha sharma,5,best i got exactly the same product and on time happy with the service,best got exactly product time happy service,0.6833333333333332,0.5166666666666667,Positive,7
+Poulamee,5,flowers are beautiful and fresh delivery on time love the experience,flower beautiful fresh delivery time love experience,0.5499999999999999,0.7000000000000001,Positive,7
+Suchandra Mallick,5,very good service and quality of products supplied,good service quality product supplied,0.7,0.6000000000000001,Positive,5
+Rishabh Ginti,5,good,good,0.7,0.6000000000000001,Positive,1
+Himanshi bansal,5,superb,superb,1.0,1.0,Positive,1
+Arupanand nayak,5,best,best,1.0,0.3,Positive,1
+mmsinha17,5,beautiful bouquet thanks,beautiful bouquet thanks,0.525,0.6,Positive,3
+natasha,5,great bouquet with a lovely note,great bouquet lovely note,0.65,0.75,Positive,4
+Kaila Sai Chandu,5,thank you for your services,thank service,0.0,0.0,Negative,2
+Priyanka,5,awesomei love itthe flowers are fresh and look same as shown in the picture,awesomei love itthe flower fresh look shown picture,0.4,0.55,Positive,8
+Tarunjit Sethi,5,excellent service keep it up,excellent service keep,1.0,1.0,Positive,3
+Shilpa Rajkumar,5,cute surprise by the loved ones,cute surprise loved one,0.6,0.9,Positive,4
+captainrajkumar,4,good flowerstimely delivery,good flowerstimely delivery,0.7,0.6000000000000001,Positive,3
+lakshmana raju Padmaraju,5,very satisfactory,satisfactory,0.0,0.0,Negative,1
+nbharti996,5,amazing experience,amazing experience,0.6000000000000001,0.9,Positive,2
+Tushar yadav,5,its great,great,0.8,0.75,Positive,1
+saurabhjaindbn,5,great delivery great product quality keep up the good work,great delivery great product quality keep good work,0.7666666666666666,0.7000000000000001,Positive,8
+Balakrishnan,5,very prompt delivery and the product also very nice,prompt delivery product also nice,0.6,1.0,Positive,5
+Selvaraj,5,done well at right time gave the flower to the right person congratulations it seemsits me we r and handed over the flower thank you,done well right time gave flower right person congratulation seemsits r handed flower thank,0.2857142857142857,0.5357142857142857,Positive,14
+Sondhiya.vivek,5,fresh and timely delivery,fresh timely delivery,0.3,0.5,Positive,3
+Pawi sidhu,5,good experience,good experience,0.7,0.6000000000000001,Positive,2
+IshraSayyad,5,loved it,loved,0.7,0.8,Positive,1
+Srinivasan,5,timely delivery,timely delivery,0.0,0.0,Negative,2
+Iqra Shaikh,5,best,best,1.0,0.3,Positive,1
+gouresh.mukadam,5,nice services,nice service,0.6,1.0,Positive,2
+Tanisharma sharma,5,thank you floweraura it was an awesome experience at first i thought it is fake but their service is really accurate and on timethankx for making it happen,thank floweraura awesome experience first thought fake service really accurate timethankx making happen,0.28750000000000003,0.7416666666666666,Positive,13
+Ashi min,5,on time delivery n beautiful fresh flowers,time delivery n beautiful fresh flower,0.575,0.75,Positive,6
+Sushma Pradeep,5,cake was delivered in good condition and at the designated time thank you cake was tasty and flowers were fresh thank you floweraura,cake delivered good condition designated time thank cake tasty flower fresh thank floweraura,0.5,0.55,Positive,13
+krishnamurthy,5,ontime delivery neat packing,ontime delivery neat packing,0.0,0.0,Negative,4
+Pawan,5,flowers are fresh and delivered on time,flower fresh delivered time,0.3,0.5,Positive,4
+Kannan,5,fantastic ontime service appriciate and kudos to you,fantastic ontime service appriciate kudos,0.4,0.9,Positive,5
+Moiz Abilfazal,5,instant delivery without any followup,instant delivery without followup,0.0,0.6666666666666666,Negative,4
+Vikram,5,marvelous,marvelous,1.0,1.0,Positive,1
+bhupinder,4,best service,best service,1.0,0.3,Positive,2
+CharmaineChisahwira,5,perfect gift,perfect gift,1.0,1.0,Positive,2
+Durga,5,timely delivery,timely delivery,0.0,0.0,Negative,2
+Saumya Sreekanth,5,thank you for on time servicereasonable price and good quality,thank time servicereasonable price good quality,0.7,0.6000000000000001,Positive,6
+Piotr Nowak,5,amazing how fast my order was delivered,amazing fast order delivered,0.4,0.75,Positive,4
+Minal Bhurchandi,5,happy with instant service,happy instant service,0.4,0.8333333333333333,Positive,3
+Mubarak Ali,5,totally satisfied,totally satisfied,0.5,1.0,Positive,2
+Darsu,4,nice,nice,0.6,1.0,Positive,1
+JitinGulati,5,everything was excellent,everything excellent,1.0,1.0,Positive,2
+Shivani Bhasin,5,great,great,0.8,0.75,Positive,1
+Kanna,5,nice great,nice great,0.7,0.875,Positive,2
+abdul Wahab,5,gud,gud,0.0,0.0,Negative,1
+Manisha Srivastava,5,very pretty,pretty,0.25,1.0,Positive,1
+Abha,5,fresh flowers delivered on time thanks,fresh flower delivered time thanks,0.25,0.35,Positive,5
+Lakshmi Narasimha Rao,5,delivered the product nicely,delivered product nicely,0.6,1.0,Positive,3
+Sandeep Rawat,5,awesome service guys keep it up,awesome service guy keep,1.0,1.0,Positive,4
+Sheikh Atta,5,nice product,nice product,0.6,1.0,Positive,2
+gunjansharma1093,5,good,good,0.7,0.6000000000000001,Positive,1
+HarshA,5,good,good,0.7,0.6000000000000001,Positive,1
+Girish Saxena,5,good,good,0.7,0.6000000000000001,Positive,1
+Kiki Romi,5,my bf loved it so much,bf loved much,0.44999999999999996,0.5,Positive,3
+sanjivrajputspenco,4,all are good,good,0.7,0.6000000000000001,Positive,1
+Anurodh Bawa,4,delivered on time,delivered time,0.0,0.0,Negative,2
+PRAKASH ARTANI,5,gr experiencekeep it up,gr experiencekeep,0.0,0.0,Negative,2
+shubham,5,the experience was great and well timed,experience great well timed,0.8,0.75,Positive,4
+shekhar,5,amazing thanks for making our day so special flower aura im your happy costumer,amazing thanks making day special flower aura im happy costumer,0.4892857142857143,0.6678571428571429,Positive,10
+rajeev,5,standard delivery was on time satisfied with services and their delivery commitment,standard delivery time satisfied service delivery commitment,0.25,0.5,Positive,7
+krishnamurthy,5,timely delivery and very good packing,timely delivery good packing,0.7,0.6000000000000001,Positive,4
+RaviKumar,5,the flower bookery is nice and the service of delivery is up to the mark give out as per service and product,flower bookery nice service delivery mark give per service product,0.6,1.0,Positive,10
+ShivangiMishra,5,thankyou so much for delivering the bunch well on time im very satisfied with the quality and the delivery service looking forward for more,thankyou much delivering bunch well time im satisfied quality delivery service looking forward,0.35,0.6,Positive,13
+Pranav Handoo,5,nice,nice,0.6,1.0,Positive,1
+Padmavathi,4,fine,fine,0.4166666666666667,0.5,Positive,1
+saqib,5,amazing service,amazing service,0.6000000000000001,0.9,Positive,2
+TPadmanabhan,5,fresh roses were supplied,fresh rose supplied,0.44999999999999996,0.725,Positive,3
+Pankaj,5,fantastic experience thank you,fantastic experience thank,0.4,0.9,Positive,3
+Poorvi,5,thank you for your service,thank service,0.0,0.0,Negative,2
+Rachna,4,delivery was perfect on time i wish it was free delivery though,delivery perfect time wish free delivery though,0.7,0.9,Positive,7
+KVRAMANA,5,very prompt and timely delivery,prompt timely delivery,0.0,0.0,Negative,3
+anurawat180,5,very happy with your service thanks,happy service thanks,0.5,0.6,Positive,3
+Rajendra Adhikari,5,very nice experience,nice experience,0.6,1.0,Positive,2
+Pooja,5,thankyou for this,thankyou,0.0,0.0,Negative,1
+khadriM,5,all good,good,0.7,0.6000000000000001,Positive,1
+Trushagni Ramteke,1,good,good,0.7,0.6000000000000001,Positive,1
+Akshay,4,thanks a lot for going the extra mile for delivery super glad with the service,thanks lot going extra mile delivery super glad service,0.2583333333333333,0.4916666666666667,Positive,9
+PriyankaMaurya,5,flowers were so fresh and delivery was on time thank you,flower fresh delivery time thank,0.3,0.5,Positive,5
+SAYANTAN DEY,5,nice product with good delivery setup,nice product good delivery setup,0.6499999999999999,0.8,Positive,5
+rashmi,5,on time delivery good package,time delivery good package,0.7,0.6000000000000001,Positive,4
+VINAYAK NARKAR,5,fresh flowers,fresh flower,0.3,0.5,Positive,2
+Badri Panda,4,good keep it up,good keep,0.7,0.6000000000000001,Positive,2
+Promilakakra,4,good,good,0.7,0.6000000000000001,Positive,1
+Vishaal Panwar,4,great experience,great experience,0.8,0.75,Positive,2
+rohitKumarSonthalia,4,thanks,thanks,0.2,0.2,Positive,1
+Ana Lúcia,5,the flower good quality and service is very good,flower good quality service good,0.7,0.6000000000000001,Positive,5
+Ranjani,5,perfect delivery made me happy all the time for delivering on time and wonderful items,perfect delivery made happy time delivering time wonderful item,0.9333333333333332,1.0,Positive,9
+Yogesh Nikam,5,fabulous,fabulous,0.4,1.0,Positive,1
+Sanika,5,excellent service,excellent service,1.0,1.0,Positive,2
+Srivats,5,delivered as expected,delivered expected,-0.1,0.4,Negative,2
+Gaurav,4,its good experience its my first experience i am regular customer of fnp but this time trys flower aura great experience one suggestion also gift like flower should be delivered early morning to give more happiness to birthday person,good experience first experience regular customer fnp time try flower aura great experience one suggestion also gift like flower delivered early morning give happiness birthday person,0.425,0.3767094017094017,Positive,26
+adeebatanzeem6,5,best,best,1.0,0.3,Positive,1
+Srinivasan.Nagarajan,5,good,good,0.7,0.6000000000000001,Positive,1
+Milan Pattnaik,5,it was wonderful to make the day special for the birthday girlthank you,wonderful make day special birthday girlthank,0.6785714285714286,0.7857142857142857,Positive,6
+Viv Borgohain,5,received it just like as in the pictures so happy with it,received like picture happy,0.8,1.0,Positive,4
+hemant,5,nice quality and delivery support,nice quality delivery support,0.6,1.0,Positive,4
+Rohit Pandey,5,got the delivery on time my friend loved it thank you,got delivery time friend loved thank,0.7,0.8,Positive,6
+Kartik,5,good prompt service will do it again,good prompt service,0.7,0.6000000000000001,Positive,3
+Sumiit Bhatia,5,good,good,0.7,0.6000000000000001,Positive,1
+jidhu joshua,5,it was amazing,amazing,0.6000000000000001,0.9,Positive,1
+Arun,4,thanks for the flowers,thanks flower,0.2,0.2,Positive,2
+prernasaini,5,thank you so much,thank much,0.2,0.2,Positive,2
+jhanvi jaiswal,5,thankyou somuch for helping and making my surprise so easy i was really scared but then now i can trust you guys from all my heart only time suggestion is a thing which should be modified rest everything about you is perfect thankyou,thankyou somuch helping making surprise easy really scared trust guy heart time suggestion thing modified rest everything perfect thankyou,0.5444444444444444,0.6777777777777777,Positive,19
